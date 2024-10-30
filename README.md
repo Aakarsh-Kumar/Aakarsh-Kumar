@@ -21,3 +21,6 @@ I’m an **aviation enthusiast** with a fascination for the aviation industry, b
 
 ## 🌱 Let’s Connect
 Always up for learning and working on new projects, especially the ones that push the envelope in tech. Let's connect and build something amazing together!
+
+## 🎉 Holopin
+[![@aakarsh's Holopin board](https://holopin.me/aakarsh)](https://holopin.io/@aakarsh)
