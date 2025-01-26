@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
 ## 🔧 Technologies & Skills
 - **Languages & Frameworks**: Python, Flask, Flask-SocketIO, Tkinter
 - **Databases**: MySQL, MongoDB, Firebase, Cloudinary
-- **Web Development**: HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, ReactJS
 - **Version Control**: Git & GitHub
 - **Exploring**: Machine Learning, cloud databases, and real-time app functionalities
 
