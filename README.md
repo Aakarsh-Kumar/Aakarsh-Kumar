@@ -24,5 +24,8 @@ Always up for learning and working on new projects, especially the ones that pus
 
 ## 📊 Statistics
 ![Aakarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-Kumar&show_icons=true&theme=radical)
+
+## 🔴 Live Activity
+![SVG](https://vscode.snehasish.xyz/api/users/446346901739212892729/svg)
 ## 🎉 Holopin
 [![@aakarsh's Holopin board](https://holopin.me/aakarsh)](https://holopin.io/@aakarsh)
