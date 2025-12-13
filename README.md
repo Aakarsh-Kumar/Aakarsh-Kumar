@@ -55,6 +55,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white">
    <img src="https://img.shields.io/badge/ngrok-1F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white">
    <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white">
+   <img src="https://img.shields.io/badge/CodeRabbit-FF570A.svg?style=for-the-badge&logo=CodeRabbit&logoColor=white">
    
 - **Exploring**: Machine Learning, cloud databases, and real-time app functionalities
 
