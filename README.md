@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white">
    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
+   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+   <img src="https://img.shields.io/badge/STMicroelectronics-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
 - **Databases**: <br><br>
    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
@@ -38,10 +40,15 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+   <img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white">
+   <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
    
    
 - **Tools**:<br><br>
    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white">
+   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
+   <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white">
+   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white">
    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
    <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white">
@@ -56,6 +63,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/ngrok-1F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white">
    <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white">
    <img src="https://img.shields.io/badge/CodeRabbit-FF570A.svg?style=for-the-badge&logo=CodeRabbit&logoColor=white">
+   <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white">
    
 - **Exploring**: Machine Learning, cloud databases, and real-time app functionalities
 
