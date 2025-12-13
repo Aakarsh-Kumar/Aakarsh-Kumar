@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aakarsh Kumar!
 
-Welcome to my GitHub profile! I'm a backend developer and technology enthusiast who loves creating efficient applications that are user-friendly, solving complex problems, and making ideas turn into workable, impactful software solutions
+Welcome to my GitHub profile! I am a fullstack developer and technology enthusiast who loves creating efficient applications that are user-friendly, solving complex problems, and making ideas turn into workable, impactful software solutions
 
 ## 🔧 Technologies & Skills
 - **Languages & Frameworks**:<br><br>
