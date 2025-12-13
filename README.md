@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
 - **Languages & Frameworks**:<br><br>
    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
@@ -15,7 +16,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/MicroPython-2B2728.svg?style=for-the-badge&logo=MicroPython&logoColor=white">
-   <img src="https://img.shields.io/badge/JAVA-00599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">
+   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white">
@@ -48,7 +49,7 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white">
    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
    <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white">
-   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white">
    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
    <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white">
@@ -58,6 +59,11 @@ Welcome to my GitHub profile! I'm a backend developer and technology enthusiast 
    <img src="https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white">
    <img src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white">
    <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white">
+   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio logoColor=white">
+   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+   <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/Cashfree-ff9900.svg?style=for-the-badge&logo=Cashfree&logoColor=white">
    <img src="https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white">
    <img src="https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white">
    <img src="https://img.shields.io/badge/ngrok-1F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white">
