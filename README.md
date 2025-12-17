@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I am a fullstack developer and technology enthusia
    <img src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white">
    <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white">
    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
-   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio logoColor=white">
+   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
    <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff">
    <img src="https://img.shields.io/badge/Cashfree-ff9900.svg?style=for-the-badge&logo=Cashfree&logoColor=white">
