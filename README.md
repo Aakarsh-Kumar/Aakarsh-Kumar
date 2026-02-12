@@ -89,5 +89,5 @@ Always up for learning and working on new projects, especially the ones that pus
 ![LinkedIn](https://www.linkedin.com/in/aakarsh-kumar25)
 
 ## 🎉 Holopin
-![@aakarsh's Holopin board](https://holopin.me/aakarsh)](https://holopin.io/@aakarsh)
+[![@aakarsh's Holopin board](https://holopin.me/aakarsh)](https://holopin.io/@aakarsh)
 
