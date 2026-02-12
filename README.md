@@ -88,9 +88,6 @@ I’m an **aviation enthusiast** with a fascination for the aviation industry, b
 Always up for learning and working on new projects, especially the ones that push the envelope in tech. Let's connect and build something amazing together!
 ![LinkedIn](https://www.linkedin.com/in/aakarsh-kumar25)
 
-## 📊 Statistics
-![Aakarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-Kumar&show_icons=true&theme=radical)
-
 ## 🎉 Holopin
 [![@aakarsh's Holopin board](https://holopin.me/aakarsh)](https://holopin.io/@aakarsh)
 
