@@ -47,6 +47,7 @@ Welcome to my GitHub profile! I am a fullstack developer and technology enthusia
    
 - **Tools**:<br><br>
    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white">
+   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=for-the-badge&logo=Oracle-Cloud&logoColor=white">
    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
    <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white">
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
