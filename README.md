@@ -1,4 +1,9 @@
 # 👋 Hello, I'm Aakarsh Kumar!
+<img width="100" height="100" alt="github-foundations" src="https://github.com/user-attachments/assets/75d37e73-68c9-48fe-a799-fc2c811587c8" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a4602569-1eab-4e56-84bc-1fdced66bfbf" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d11deb06-5d46-43df-a02f-2ca172757b5f" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d9ff0fb-58ae-4905-b62d-16b833005d04" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/77fac0dd-9cb4-41bb-9781-19706b8ad584" />
 
 Welcome to my GitHub profile! I am a fullstack developer and technology enthusiast who loves creating efficient applications that are user-friendly, solving complex problems, and making ideas turn into workable, impactful software solutions
 
